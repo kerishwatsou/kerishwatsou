@@ -13,54 +13,45 @@
 
 ### 👋 hey, i'm kirill
 
-frontend developer focused on clarity, structure, and stability.  
-i build systems that stay readable, fixable, and kind to the next person.
+i like taking complicated, tangled codebases and breaking them down until they become simple, predictable, and clean. to me, engineering maturity is knowing exactly what to leave out, not what to cram in.
 
-currently building developer tools and business-facing systems -  
-tools for those who build, platforms for those who operate.
+most of my time is spent building tools for developers and internal platforms that abstract away the boring stuff. i build custom clis to automate project scaffolding, design robust low-code engines, and dive deep into performance optimization. while i mostly breathe frontend (react, next.js, structured fsd), i happily cross layers into backend or infrastructure when a problem gets interesting.
 
-mostly working with the web.  
-primarily frontend, but i cross layers when needed - backend, infra, architecture.
-
-i use AI in day-to-day development - to think faster, write cleaner, and explore deeper.  
-tools assist, but intent remains human.
-
-i explore how things break - and how to rebuild them better.  
-sometimes with humor, always with intent.
+i leverage agentic ai to automate the boilerplate and explore edge cases at speed — tooling expands capability, but the engineering intent remains entirely mine. i enjoy figuring out how systems break, building them back stronger, and keeping things clean for the next person who opens the editor.
 
 ---
 
 ### 🧠 how i think
 
-- good code is quiet  
-- interfaces should explain themselves  
-- bugs are signals, not shame  
-- backwards compatibility is a feature  
-- stability is the real flex  
-- growth is the only constant
+- **simplicity over hype**: minimalism in dependencies is actual stability. i don't drag heavy libraries or over-engineered frameworks into a project just because they are trending on tech twitter. if a native tool or simple state works, it stays.
+- **legacy is just data**: old, tangled codebases aren't a headache; they are a reverse-engineering puzzle. instead of complaining about the previous developers, i enjoy diving into legacy, restoring the core business logic, and shifting it to modern stacks without dropping live features.
+- **dx is a core feature**: internal tools aren't an afterthought. building custom clis, unifying linting configs, and polishing local environment setups directly impacts how fast a team can ship code. making dev work smooth is just good engineering.
+- **systems are for humans**: computers only care about the build output, but engineers have to maintain the intent. i structure architectures (like pragmatic fsd) and write documentation so clearly that the codebase can safely survive without my constant input.
+- **rules are tools, not laws**: strict architectural boundaries, 100% test coverage, or dogmatic coding patterns are guides, not religious texts. if bending or breaking a dogmatic rule makes the system faster, cleaner, or better — i break it.
+- **ai is an accelerator, not the driver**: agentic ai is incredible for burning through boilerplate, generating edge-case unit tests, and rapid prototyping. but the overall vision, systemic guardrails, and final architecture must remain entirely human.
 
 ---
 
 ### 📌 what i do
 
-- design frontend architecture for change and clarity  
-- share lessons from debugging and upgrades  
-- explore tools that make dev work smoother  
-- write for those who are figuring it out too
+- **clean architecture & scaling**: design modular web applications using react, next.js, and structured fsd. i focus on creating codebases that don't turn into a nightmare as the team and feature count grow.
+- **developer experience (dx) tooling**: build custom internal clis, shared sdks, and unified development environments to abstract away the boring, repetitive parts of setup and deployment.
+- **legacy taming & refactoring**: jump into messy, undocumented javascript codebases, reverse-engineer the business intent, and safely migrate them to clean, modern typescript environments without breaking production.
+- **ai-assisted engineering**: design and tweak autonomous ai agentic workflows to automate routine development tasks, generate unit tests, and speed up building prototypes.
+- **performance tuning & metrics**: dive deep into rendering pipelines, clean up real-time event streaming, and chop down bundle sizes to make the web fast and responsive.
 
 ---
 
 ### 🛠️ tech stack
 
-TypeScript, React, Next.js, RTK  
-TailwindCSS, Chakra UI, feature-sliced design
+- **languages & core**: typescript, javascript (es6+), html5, css3
+- **frontend ecosystem**: react 19, next.js, solidjs, rtk (redux toolkit), apollo client, zustand
+- **architecture & patterns**: feature-sliced design (fsd), backend-driven ui, offline-first architectures
+- **ui & styling**: tailwindcss, shadcn, radix-ui, base-ui, custom design systems
+- **mobile development**: react native (android/ios offline-first apps)
+- **tooling & infra**: custom clis, vite, docker, gitlab ci, oxc stack, automated pre-commit & ci checks
+- **testing & monitoring**: vitest, playwright, sentry, apollo / rest / graphql integrations
 
 ---
 
-### 📊 github stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=puzanovkirill&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-<sub><i>this profile was written in light mode. probably at night.</i></sub>
+<sub><i>// todo: write a witty closing line here</i></sub>
