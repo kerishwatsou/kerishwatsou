@@ -11,13 +11,12 @@
 <br/>
 <img src="./vertical.jpg" width="356" align="right" alt="figure watching battlefield" />
 
-### 👋 hey, i'm kirill
+### ⚙️ tech-stoic approach
 
-i like taking complicated, tangled codebases and breaking them down until they become simple, predictable, and clean. to me, engineering maturity is knowing exactly what to leave out, not what to cram in.
+i focus on clarity, structure, and absolute stability. 
+i don't fight complexity with more code; i eliminate it through clean systems and automation.
 
-most of my time is spent building tools for developers and internal platforms that abstract away the boring stuff. i build custom clis to automate project scaffolding, design robust low-code engines, and dive deep into performance optimization. while i mostly breathe frontend (react, next.js, structured fsd), i happily cross layers into backend or infrastructure when a problem gets interesting.
-
-i leverage agentic ai to automate the boilerplate and explore edge cases at speed — tooling expands capability, but the engineering intent remains entirely mine. i enjoy figuring out how systems break, building them back stronger, and keeping things clean for the next person who opens the editor.
+my goal is to build web applications, custom tooling, and dx infrastructure that stay simple, predictable, and genuinely kind to the next engineer.
 
 ---
 
