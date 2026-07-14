@@ -21,24 +21,14 @@ i leverage agentic ai to automate the boilerplate and explore edge cases at spee
 
 ---
 
-### 🧠 how i think
+### 🚀 engineering focus
 
-- **simplicity over hype**: minimalism in dependencies is actual stability. i don't drag heavy libraries or over-engineered frameworks into a project just because they are trending on tech twitter. if a native tool or simple state works, it stays.
-- **legacy is just data**: old, tangled codebases aren't a headache; they are a reverse-engineering puzzle. instead of complaining about the previous developers, i enjoy diving into legacy, restoring the core business logic, and shifting it to modern stacks without dropping live features.
-- **dx is a core feature**: internal tools aren't an afterthought. building custom clis, unifying linting configs, and polishing local environment setups directly impacts how fast a team can ship code. making dev work smooth is just good engineering.
-- **systems are for humans**: computers only care about the build output, but engineers have to maintain the intent. i structure architectures (like pragmatic fsd) and write documentation so clearly that the codebase can safely survive without my constant input.
-- **rules are tools, not laws**: strict architectural boundaries, 100% test coverage, or dogmatic coding patterns are guides, not religious texts. if bending or breaking a dogmatic rule makes the system faster, cleaner, or better — i break it.
-- **ai is an accelerator, not the driver**: agentic ai is incredible for burning through boilerplate, generating edge-case unit tests, and rapid prototyping. but the overall vision, systemic guardrails, and final architecture must remain entirely human.
-
----
-
-### 📌 what i do
-
-- **clean architecture & scaling**: design modular web applications using react, next.js, and structured fsd. i focus on creating codebases that don't turn into a nightmare as the team and feature count grow.
-- **developer experience (dx) tooling**: build custom internal clis, shared sdks, and unified development environments to abstract away the boring, repetitive parts of setup and deployment.
-- **legacy taming & refactoring**: jump into messy, undocumented javascript codebases, reverse-engineer the business intent, and safely migrate them to clean, modern typescript environments without breaking production.
-- **ai-assisted engineering**: design and tweak autonomous ai agentic workflows to automate routine development tasks, generate unit tests, and speed up building prototypes.
-- **performance tuning & metrics**: dive deep into rendering pipelines, clean up real-time event streaming, and chop down bundle sizes to make the web fast and responsive.
+- **simplicity > hype**: building modular apps (react, next.js, fsd) without trendy bloat or overengineering.
+- **legacy taming**: reverse-engineering undocumented codebases and migrating to typesafe ts without production downtime.
+- **dx & tooling**: crafting custom clis, shared sdks, and unified configs to eliminate developer friction.
+- **pragmatic infra**: setting up efficient linters, formatters, docker, gitlab ci, and automated pre-commit guardrails.
+- **agentic ai workflows**: using ai as a high-speed catalyst for boilerplate, keeping architecture strictly human.
+- **performance tuning**: chopping bundle sizes, optimizing real-time streams, and building offline-first apps.
 
 ---
 
